@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    
+}
+
+.container1 {
+    padding-top: 25px;
+}
+
+.container2 {
+    padding-top: 15px;
+}
+
+
+a {
+    color:black;
+    text-decoration: none;
+}
+
+a:hover {
+    color:black;
+}
+
+#routerimg {
+    height:20rem;
+
+}
